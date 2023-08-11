@@ -1,0 +1,25 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color: rgb(57, 85, 113);
+    color: white
+}
+
+img {
+
+    width: 30%;
+}
+#elh2especial {
+    text-decoration: underline 3px goldenrod;
+}
+h1 { color: red;}
+
+.negrita {
+
+    font-weight:bold;
+}
+
+ul li {
+    background-color: bisque;
+}
